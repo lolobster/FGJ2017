@@ -1,6 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+FGJ2017/Intermediate/
+FGJ2017/Saved/
+FGJ2017/Content/StarterContent/
+
+
 # Compiled Object files
 *.slo
 *.lo
